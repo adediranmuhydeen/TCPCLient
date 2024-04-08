@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGxRMjQ4Hbyc5x8Spl4btxMwrjSkoaYyj1iOvCT3cg9iOLyakzS6ctCPCQrIpJl/KO08DoRjRJ/CbVcz2pgq9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adediranma\\source\\repos\\TCPApp\\TCPApp\\TCPApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adediranma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\bin\Debug\net6.0\TCPApp.exe
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\bin\Debug\net6.0\TCPApp.deps.json
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\bin\Debug\net6.0\TCPApp.runtimeconfig.json
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\bin\Debug\net6.0\TCPApp.dll
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\bin\Debug\net6.0\TCPApp.pdb
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.AssemblyInfoInputs.cache
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.AssemblyInfo.cs
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.csproj.CoreCompileInputs.cache
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.dll
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\refint\TCPApp.dll
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.pdb
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.genruntimeconfig.cache
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\ref\TCPApp.dll
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.csproj.AssemblyReference.cache
+C:\Users\adediranma\source\repos\TCPApp\TCPApp\obj\Debug\net6.0\TCPApp.csproj.Up2Date
